@@ -1,30 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:34A853&height=220&section=header&text=YOGITHA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20AI%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
+<img src="YOUR_CUSTOM_BANNER"/>
 
 # 👋 Hi, I'm Yogitha
 
-### Turning Data into Decisions • Building AI Applications
+### Data Analytics • AI • Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=4285F4&center=true&vCenter=true&width=650&lines=Data+Analytics+Enthusiast;AI+Developer;Google+Cloud+Learner;Power+BI+Developer;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=4285F4&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Turning+Data+into+Insights;Google+Cloud+Learner;Open+Source+Contributor"/>
 
-<img src="https://komarev.com/ghpvc/?username=yogitha-star&label=Profile+Views&style=for-the-badge&color=4285F4"/>
+<img src="https://komarev.com/ghpvc/?username=yogitha-star&style=for-the-badge&color=4285F4"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🚀 Developer Dashboard
 
-🎓 Final Year B.Tech CSE (Cybersecurity)
+<table>
+<tr>
 
-📊 Passionate about Data Analytics, AI & Business Intelligence
+<td width="50%">
 
-☁️ Google Cloud Learner
+## 👩 About Me
 
-💻 Building Full Stack & AI-powered Applications
+🎓 Final Year B.Tech CSE
 
-🌱 Currently mastering DSA, SQL, Power BI & React
+📊 Data Analytics
+
+☁️ Google Cloud
+
+🤖 AI Development
+
+💻 Full Stack
+
+🌱 Always Learning
+
+</td>
+
+<td width="50%">
+
+## 🎯 Current Goals
+
+✅ 300+ DSA Problems
+
+🚀 CareerPilot AI
+
+📊 PL-300
+
+☁️ Google Cloud
+
+🌍 Open Source
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -36,27 +66,21 @@
 
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-</p>
-
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-🚀 CareerPilot AI *(Coming Soon)*
+<p align="center">
 
-📊 Mini ERP CRM
+<a href="https://github.com/yogitha-star/mini-erp-crm">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yogitha-star&repo=mini-erp-crm&theme=tokyonight"/>
+</a>
 
-📈 Supply Chain Performance Dashboard
+<a href="https://github.com/yogitha-star/dsa-journey">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yogitha-star&repo=dsa-journey&theme=tokyonight"/>
+</a>
 
-📚 DSA Journey
-
-☁️ Google Cloud Labs
+</p>
 
 ---
 
@@ -64,29 +88,29 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yogitha-star&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yogitha-star&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitha-star&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yogitha-star&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitha-star&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🔥 Contribution Streak
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogitha-star&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=yogitha-star&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogitha-star&theme=tokyo-night"/>
 
 </p>
 
@@ -96,31 +120,23 @@
 
 🏅 Google Cloud Arcade Facilitator
 
-🌍 Open Source Contributor
+🏅 Open Source Contributor
 
-📊 Power BI Dashboard Developer
+🏅 Power BI Developer
 
-💻 Consistent DSA Learner
-
----
-
-# 🎯 2026 Goals
-
-- 🎯 300+ DSA Problems
-- ☁️ Master Google Cloud
-- 📊 Become PL-300 Ready
-- 🤖 Build AI Products
-- 🌍 Contribute to Open Source
+🏅 AI Builder
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect
 
 <p align="center">
 
-<a href="https://github.com/yogitha-star">
-<img src="https://skillicons.dev/icons?i=github"/>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
 
 </p>
 
@@ -131,5 +147,3 @@
 ### ⭐ Learning • Building • Growing Every Day
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34A853,100:4285F4&height=120&section=footer"/>
