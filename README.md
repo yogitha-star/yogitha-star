@@ -12,16 +12,13 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final Year B.Tech CSE (Cybersecurity)
-- 📊 Passionate about Data Analytics & Business Intelligence
-- 🤖 Building AI-powered applications
-- ☁️ Exploring Google Cloud
-- 🌍 Open Source Contributor
-- 🚀 Always learning and building real-world projects
+-  Passionate about Data Analytics & Business Intelligence
+-  Open Source Contributor
+-  Always learning and building real-world projects
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -31,35 +28,22 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description |
 |:--------|:------------|
-| 🚀 **Mini ERP CRM** | Full Stack ERP & CRM Application |
-| 📊 **Supply Chain Dashboard** | Interactive Power BI Dashboard |
-| 📈 **Automobile Sales Dashboard** | Business Intelligence Dashboard |
-| 📚 **DSA Journey** | Interview Preparation Repository |
-| 🤖 **CareerPilot AI** *(Coming Soon)* | AI-powered Career Assistant |
-
+|  **Mini ERP CRM** | Full Stack ERP & CRM Application |
+|  **Supply Chain Dashboard** | Interactive Power BI Dashboard |
+|  **Automobile Sales Dashboard** | Business Intelligence Dashboard |
+|  **DSA Journey** | Interview Preparation Repository |
+| 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yogitha-star&theme=github-dark&hide_border=true&area=true)](https://github.com/yogitha-star)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yogitha-star&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitha-star&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
