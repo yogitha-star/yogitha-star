@@ -4,146 +4,69 @@
 
 ### Data Analytics • AI • Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=4285F4&center=true&vCenter=true&width=600&lines=Building+AI+Applications;Learning+by+Building;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=4285F4&center=true&vCenter=true&width=650&lines=Building+AI+Applications;Learning+by+Building;Open+Source+Contributor"/>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td>
-
 ## 👩‍💻 About Me
 
-🎓 Final Year B.Tech CSE (Cybersecurity)
-
-📊 Passionate about Data Analytics & Business Intelligence
-
-🤖 Building AI-powered applications
-
-☁️ Exploring Google Cloud
-
-🚀 Open Source Enthusiast
-
-💡 Learning DSA, SQL, Power BI & Full Stack Development
-
-</td>
-</tr>
-</table>
+- 🎓 Final Year B.Tech CSE (Cybersecurity)
+- 📊 Passionate about Data Analytics & Business Intelligence
+- 🤖 Building AI-powered applications
+- ☁️ Exploring Google Cloud
+- 🌍 Open Source Contributor
+- 🚀 Always learning and building real-world projects
 
 ---
-
-<table>
-<tr>
-<td>
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,typescript,mysql,git,github,docker,vscode"/>
 
-</p>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
-
-<table>
-<tr>
-<td>
 
 ## 🚀 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| 🚀 Mini ERP CRM | Full Stack ERP & CRM Application |
-| 📊 Supply Chain Dashboard | Interactive Power BI Dashboard |
-| 📈 Automobile Sales Dashboard | Business Intelligence Dashboard |
-| 📚 DSA Journey | Interview Preparation Repository |
-| 🤖 CareerPilot AI *(Coming Soon)* | AI Career Assistant |
-
-</td>
-</tr>
-</table>
+|:--------|:------------|
+| 🚀 **Mini ERP CRM** | Full Stack ERP & CRM Application |
+| 📊 **Supply Chain Dashboard** | Interactive Power BI Dashboard |
+| 📈 **Automobile Sales Dashboard** | Business Intelligence Dashboard |
+| 📚 **DSA Journey** | Interview Preparation Repository |
+| 🤖 **CareerPilot AI** *(Coming Soon)* | AI-powered Career Assistant |
 
 ---
 
-<table>
-<tr>
-<td>
-
-## 🎯 Current Focus
-
-- 📚 Solving DSA consistently
-- 🤖 Building AI Applications
-- ☁️ Learning Google Cloud
-- 📊 Power BI Dashboard Development
-- 💻 Full Stack Development
-- 🌍 Open Source Contributions
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td>
-
-## 📊 GitHub Overview
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yogitha-star&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitha-star&layout=compact&theme=transparent&hide_border=true"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yogitha-star&theme=github-dark&hide_border=true&area=true)](https://github.com/yogitha-star)
 
 </div>
 
-</td>
-</tr>
-</table>
-
 ---
 
-<table>
-<tr>
-<td>
-
-## 🌱 Currently Learning
-
-- Advanced Python
-- Data Structures & Algorithms
-- SQL Optimization
-- Power BI
-- React + Node.js
-- Google Cloud
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td align="center">
-
-## ⭐ Philosophy
-
-> **Build. Learn. Improve. Repeat.**
-
-</td>
-</tr>
-</table>
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### Thanks for visiting my profile!
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yogitha-star&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitha-star&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Learning • Building • Growing
 
 </div>
