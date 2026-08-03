@@ -1,2 +1,33 @@
-# 👋 Hi, I'm Yogitha### Data Analytics • AI • Full Stack Developer<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=4285F4&center=true&vCenter=true&width=650&lines=Building+AI+Applications;Learning+by+Building;Open+Source+Contributor"/></div>---## 👩‍💻 About Me-  Passionate about Data Analytics & Business Intelligence@@ -28,16 +24,6 @@---##  Featured Projects| Project | Description ||:--------|:------------||  **Mini ERP CRM** | Full Stack ERP & CRM Application ||  **Supply Chain Dashboard** | Interactive Power BI Dashboard ||  **Automobile Sales Dashboard** | Business Intelligence Dashboard ||  **DSA Journey** | Interview Preparation Repository || ---##  Contribution Graph
-0 commit commentsComments0 (0)Lock conversationCommentSubscribeYou're not receiving notifications from this thread.
+# 👋 Hi, I'm Yogitha
+
+### Data Analyst • Power BI • Python • AI
+
+---
+
+## 👩‍💻 About Me
+
+- 📊 Passionate about Data Analytics & Business Intelligence
+- 📈 Building interactive Power BI dashboards
+- 🐍 Learning Python, SQL & Data Analysis
+- 💻 Solving Data Structures & Algorithms
+- 🌱 Contributing to Open Source
+
+---
+
+## 🛠 Tech Stack
+
+Power BI • Python • SQL • Excel • Pandas • NumPy • Git • GitHub • HTML • CSS • JavaScript
+
+---
+
+## 📈 GitHub Stats
+
+<!-- GitHub Stats Cards -->
+
+---
+
+## 📫 Connect
+
+- GitHub
+- LinkedIn
+- Portfolio
