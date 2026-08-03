@@ -1,11 +1,4 @@
-<!-- ========================= -->
-<!-- HERO BANNER -->
-<!-- ========================= -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <img src="./light.svg" width="100%" alt="Yogitha GitHub Banner">
-</picture>
 
 <h1 align="center">Hi 👋, I'm Yogitha</h1>
 
