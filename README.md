@@ -4,18 +4,18 @@
 
 ---
 
-# 👩‍💻 About Me
+👩‍💻 About Me
 
-- 🎓 Final Year B.Tech CSE (Cybersecurity)
-- 📊 Passionate about Data Analytics & Business Intelligence
-- 🐍 Learning Python, SQL & Power BI
-- 🤖 Building AI-powered applications
-- 🌍 Open Source Contributor
-- 💻 Solving Data Structures & Algorithms every day
+-  Final Year B.Tech CSE (Cybersecurity)
+-  Passionate about Data Analytics & Business Intelligence
+-  Learning Python, SQL & Power BI
+-  Building AI-powered applications
+-  Open Source Contributor
+-  Solving Data Structures & Algorithms every day
 
 ---
 
-# 🛠 Tech Stack
+   Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,typescript,mysql,git,github,docker,vscode" />
@@ -30,7 +30,7 @@
 
 ---
 
-# 📈 Contribution Graph
+  Contribution Graph
 
 [![Yogitha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yogitha-star&theme=github-dark&hide_border=true&radius=12)](https://github.com/yogitha-star)
 
