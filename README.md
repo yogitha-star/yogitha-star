@@ -34,18 +34,6 @@
 
 [![Yogitha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yogitha-star&theme=github-dark&hide_border=true&radius=12)](https://github.com/yogitha-star)
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yogitha-star&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitha-star&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
 
 ---
 
